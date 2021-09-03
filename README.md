@@ -1,2 +1,2 @@
-# -github-learn
+# github-learn
 Demo repo
