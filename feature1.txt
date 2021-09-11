@@ -1,1 +1,2 @@
  Checking new feature on feature branch
+ this to check conflicts scenario 
